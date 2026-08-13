@@ -1,0 +1,63 @@
+# AI+X 공학융합프로젝트 (2026 가을)
+
+컴퓨터학부 · ICT학부 | 2학점 · 주 2시간 | PBL 운영
+
+> 전공 지식으로 문제를 정의하고, AI와 협업하여 **동작하는 소프트웨어**를 만들어 배포합니다.
+> 최종 산출물은 보고서가 아니라 GitHub 저장소와 배포된 서비스입니다.
+>
+> *Define a problem from your own major, build working software with AI, and deploy it.
+> The final deliverable is a repository and a live service — not a report.*
+
+## 시작하기 / Start here
+
+1. [강의계획서 / Syllabus](syllabus.md)
+2. [한-영 용어집 / Glossary](glossary.md)
+3. [주차별 안내 / Weekly guide](weeks/)
+4. 팀 저장소 템플릿 → **aix-team-template** 저장소에서 `Use this template` 클릭
+
+## 주차별 바로가기 / Weekly index
+
+| 주 Week | 주제 Topic | |
+|---|---|---|
+| 1 | 오리엔테이션과 AI 개발 윤리 | [보기](weeks/week-01.md) |
+| 2 | AI 코딩 에이전트 워크플로우 | [보기](weeks/week-02.md) |
+| 3 | 저작권과 오픈소스 라이선스 | [보기](weeks/week-03.md) |
+| 4 | 전공 기반 문제 발굴 | [보기](weeks/week-04.md) |
+| 5 | 요구사항 명세와 범위 축소 | [보기](weeks/week-05.md) |
+| 6 | Git과 GitHub 협업 | [보기](weeks/week-06.md) |
+| 7 | 아키텍처 설계와 이슈 분해 | [보기](weeks/week-07.md) |
+| 8 | 중간고사 Midterm | [보기](weeks/week-08.md) |
+| 9 | 기획 확정과 개발 착수 | [보기](weeks/week-09.md) |
+| 10 | MVP 개발과 막힘 진단 | [보기](weeks/week-10.md) |
+| 11 | 중간 데모와 상호 코드리뷰 | [보기](weeks/week-11.md) |
+| 12 | 테스트와 AI 코드리뷰 | [보기](weeks/week-12.md) |
+| 13 | 배포와 문서화 | [보기](weeks/week-13.md) |
+| 14 | 최종 데모데이 | [보기](weeks/week-14.md) |
+| 15 | 회고와 기말 프로젝트 제출 | [보기](weeks/week-15.md) |
+
+## 평가 / Grading
+
+| 항목 Component | 비중 Weight |
+|---|---|
+| 중간고사 Midterm | 25% |
+| 기말 프로젝트 Final project | 35% |
+| 주차별 활동·성찰 Weekly worksheets | 15% |
+| GitHub 협업 기여도 Collaboration | 15% |
+| 동료평가 Peer evaluation | 10% |
+
+## AI 사용 규칙 / Rules for using AI
+
+1. AI 사용은 **허용**합니다. 단 주요 프롬프트와 판단 근거를 `PROMPTS.md`에 기록합니다.
+2. **이해하지 못한 코드는 제출하지 않습니다.** 데모에서 동작 원리를 질문합니다.
+3. 타인의 코드를 출처 표기 없이 사용하지 않습니다.
+4. 개인정보를 수집하는 서비스는 사전에 협의합니다.
+
+> AI를 쓰는 것은 부정행위가 아닙니다. **감추는 것**이 부정행위입니다.
+> *Using AI is not misconduct. Hiding it is.*
+
+## 국제학생 안내 / For international students
+
+- [한-영 용어집](glossary.md) — 시험 문항도 이 용어를 따릅니다 / Exam questions use these terms
+- 활동지는 한·영 병기입니다 / Worksheets include English
+- 중간고사 **영문 시험지**를 신청할 수 있습니다 / An English exam paper is available on request
+- 1주차에 팀 **공용 언어**를 정하십시오 / Agree on a working language with your team in Week 1
