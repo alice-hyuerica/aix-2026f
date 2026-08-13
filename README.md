@@ -1,9 +1,8 @@
 # AI+X 공학융합프로젝트 (2026 가을)
 
-컴퓨터학부 · ICT학부 | 2학점 · 주 2시간 | PBL 운영
 
 > 전공 지식으로 문제를 정의하고, AI와 협업하여 **동작하는 소프트웨어**를 만들어 배포합니다.
-> 최종 산출물은 보고서가 아니라 GitHub 저장소와 배포된 서비스입니다.
+> 최종 산출물은 동작하는 서비스와 저장소, 그리고 이를 정리한 결과보고서와 발표입니다
 >
 > *Define a problem from your own major, build working software with AI, and deploy it.
 > The final deliverable is a repository and a live service — not a report.*
