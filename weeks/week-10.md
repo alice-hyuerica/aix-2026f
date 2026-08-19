@@ -25,4 +25,8 @@
 
 ---
 
-활동지: 팀 저장소의 `docs/week-10.md` / Worksheet: `docs/week-10.md` in your team repo
+## 활동지 / Worksheet
+
+- 원본 보기 / View original: [`docs/week-10.md`](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-10.md)
+- 작성 위치 / Where to write: **여러분 팀 저장소의** `docs/week-10.md`
+- 제출 / Submit: 수업 종료 시 커밋 → 커밋 URL을 LMS에 제출

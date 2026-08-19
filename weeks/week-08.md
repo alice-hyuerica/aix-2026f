@@ -24,4 +24,4 @@
 
 ---
 
-활동지: 팀 저장소의 `docs/week-08.md` / Worksheet: `docs/week-08.md` in your team repo
+이번 주는 활동지가 없습니다. / No worksheet this week.

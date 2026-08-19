@@ -1,5 +1,7 @@
 # AI+X 공학융합프로젝트 (2026 가을)
 
+컴퓨터학부 · ICT학부 | 2학점 · 주 2시간 | PBL 운영
+
 > 전공 지식으로 문제를 정의하고, AI와 협업하여 **동작하는 소프트웨어**를 만들어 배포합니다.
 > 최종 산출물은 **동작하는 서비스와 저장소, 그리고 이를 정리한 결과보고서와 발표**입니다.
 > 결과보고서는 백지에서 새로 쓰지 않습니다. **매주 활동지를 엮어 완성합니다.**
@@ -18,6 +20,9 @@
 
 > **활동지는 읽는 문서가 아니라 작성하는 문서입니다.** 아래 표의 링크는 원본을 보여주는 용도이며,
 > 실제 작성은 `Use this template`으로 만든 **여러분 팀 저장소의 `docs/` 폴더**에서 합니다.
+>
+> *Worksheets are meant to be filled in, not just read. The links below show the originals;
+> you write in your own team repository under `docs/`.*
 
 ## 주차별 바로가기 / Weekly index
 
