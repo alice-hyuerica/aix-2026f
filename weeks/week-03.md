@@ -1,5 +1,5 @@
-# 3주차 — AI 생성 코드의 저작권과 오픈소스 라이선스
-### Week 3 — Copyright and Open-Source Licensing
+# 3주차 — 도메인 문제 발굴
+### Week 3 — Finding a Problem in Your Domain
 
 [← 목록으로 / Back to index](../README.md)
 

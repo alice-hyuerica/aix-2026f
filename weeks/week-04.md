@@ -1,5 +1,5 @@
-# 4주차 — 전공 기반 문제 발굴
-### Week 4 — Finding a Problem in Your Major
+# 4주차 — 명세 주도 개발 Ⅰ — 요구 명세와 EARS
+### Week 4 — Spec-Driven Development I — Requirements and EARS
 
 [← 목록으로 / Back to index](../README.md)
 

@@ -1,5 +1,5 @@
-# 9주차 — 기획 확정 발표와 개발 착수
-### Week 9 — Plan Confirmation and Kickoff
+# 9주차 — 구현 착수 — Agent Loop 돌리기
+### Week 9 — Starting Implementation — Running the Agent Loop
 
 [← 목록으로 / Back to index](../README.md)
 

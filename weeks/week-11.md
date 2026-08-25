@@ -1,5 +1,5 @@
-# 11주차 — 중간 데모와 상호 코드리뷰
-### Week 11 — Interim Demo and Peer Review
+# 11주차 — 중간 데모와 리뷰 병목
+### Week 11 — Interim Demo and the Review Bottleneck
 
 [← 목록으로 / Back to index](../README.md)
 

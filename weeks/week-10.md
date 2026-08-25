@@ -1,5 +1,5 @@
-# 10주차 — MVP 개발과 막힘 진단
-### Week 10 — MVP Development and Diagnosing Blockers
+# 10주차 — 검증 Ⅰ — 실행 가능한 명세로서의 테스트
+### Week 10 — Verification I — Tests as Executable Spec
 
 [← 목록으로 / Back to index](../README.md)
 

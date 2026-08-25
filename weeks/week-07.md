@@ -1,5 +1,5 @@
-# 7주차 — 아키텍처 설계와 이슈 분해
-### Week 7 — Architecture and Issue Breakdown
+# 7주차 — 아키텍처와 컨텍스트 설계
+### Week 7 — Architecture and Context Design
 
 [← 목록으로 / Back to index](../README.md)
 

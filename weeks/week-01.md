@@ -1,5 +1,5 @@
-# 1주차 — 오리엔테이션과 AI 개발 윤리
-### Week 1 — Orientation and AI Development Ethics
+# 1주차 — AI 시대의 소프트웨어 개발 패러다임
+### Week 1 — The Shift in Software Development
 
 [← 목록으로 / Back to index](../README.md)
 

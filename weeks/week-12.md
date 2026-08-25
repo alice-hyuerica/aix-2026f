@@ -1,5 +1,5 @@
-# 12주차 — 테스트와 AI 코드리뷰
-### Week 12 — Testing and AI Code Review
+# 12주차 — 검증 Ⅱ — AI 생성 코드의 보안과 품질
+### Week 12 — Verification II — Security of AI-Generated Code
 
 [← 목록으로 / Back to index](../README.md)
 

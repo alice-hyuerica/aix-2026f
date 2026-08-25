@@ -1,5 +1,5 @@
-# 13주차 — 배포와 문서화
-### Week 13 — Deployment and Documentation
+# 13주차 — 거버넌스와 재현성
+### Week 13 — Governance and Reproducibility
 
 [← 목록으로 / Back to index](../README.md)
 

@@ -1,5 +1,5 @@
-# 5주차 — 요구사항 명세와 범위 축소
-### Week 5 — Requirements and Scope Reduction
+# 5주차 — 명세 주도 개발 Ⅱ — 계획과 태스크 분해
+### Week 5 — Spec-Driven Development II — Plan and Tasks
 
 [← 목록으로 / Back to index](../README.md)
 

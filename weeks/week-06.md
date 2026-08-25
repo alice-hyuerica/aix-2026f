@@ -1,5 +1,5 @@
-# 6주차 — Git과 GitHub 협업
-### Week 6 — Collaborating with Git and GitHub
+# 6주차 — Version Control과 에이전트 워크플로
+### Week 6 — Version Control and Agent Workflow
 
 [← 목록으로 / Back to index](../README.md)
 

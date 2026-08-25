@@ -1,5 +1,5 @@
-# 2주차 — AI 코딩 에이전트 워크플로우
-### Week 2 — AI Coding Agent Workflow
+# 2주차 — 코딩 에이전트의 작동 원리와 Context Engineering
+### Week 2 — Coding Agents and Context Engineering
 
 [← 목록으로 / Back to index](../README.md)
 
