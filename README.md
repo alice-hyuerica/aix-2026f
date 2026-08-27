@@ -1,6 +1,5 @@
 # AI+X 공학융합프로젝트 (2026 가을)
 
-컴퓨터학부 · ICT학부 | 2학점 · 주 2시간 | PBL 프로젝트
 
 > AI 코딩 에이전트를 전제로 한 개발 방법론을 배우고, 그 절차대로 팀 프로젝트를 완주합니다.
 > 개발의 병목은 구현에서 **명세와 검증**으로 이동했습니다. 이 과목은 그 새로운 병목을 다룹니다.
@@ -10,11 +9,10 @@
 
 ## 시작하기 / Start here
 
-1. [강의계획서 / Syllabus](syllabus.md)
-2. [한-영 용어집 / Glossary](glossary.md)
-3. [보조자료 — 영상·읽을거리 / Extra materials](resources.md)
-4. [주차별 안내 / Weekly guide](weeks/)
-5. 팀 저장소 만들기 → [aix-team-template](https://github.com/alice-hyuerica/aix-team-template) 에서 `Use this template`
+1. [한-영 용어집 / Glossary](glossary.md)
+2. [보조자료 — 영상·읽을거리 / Extra materials](resources.md)
+3. [주차별 안내 / Weekly guide](weeks/)
+4. 팀 저장소 만들기 → [aix-team-template](https://github.com/alice-hyuerica/aix-team-template) 에서 `Use this template`
 
 > **활동지는 읽는 문서가 아니라 작성하는 문서입니다.** 아래 표의 링크는 원본이며,
 > 실제 작성은 여러분 팀 저장소의 `docs/` 폴더에서 합니다.
@@ -43,10 +41,10 @@
 
 | 항목 | 비중 |
 |---|---|
-| 중간고사 (객관식 25문항) | 25% |
-| 기말 프로젝트 | 35% |
-| 주차별 활동·성찰 (윤리 노트 포함) | 15% |
-| GitHub 협업 기여도 | 15% |
+| 중간고사 (객관식 25문항) | 30% |
+| 기말 프로젝트 | 40% |
+| 주차별 활동·성찰 (윤리 노트 포함) | 10% |
+| 출석 | 10% |
 | 동료평가 | 10% |
 
 ## 제출물 8종 / Eight submissions
@@ -78,9 +76,3 @@
 > *Ethics notes are submitted individually on the LMS, not in the repository.
 > Team-level decisions go in `ETHICS.md`.*
 
-## 국제학생 안내 / For international students
-
-- [용어집](glossary.md) — 시험 문항도 이 용어를 따릅니다
-- 활동지는 한·영 병기입니다
-- 중간고사 **영문 시험지**를 사전 신청할 수 있습니다
-- 1주차에 팀 **공용 언어**를 정하십시오
