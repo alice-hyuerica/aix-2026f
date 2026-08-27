@@ -31,3 +31,10 @@
 - 원본 보기 / View original: [`docs/week-07.md`](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-07.md)
 - 작성 위치 / Where to write: **여러분 팀 저장소의** `docs/week-07.md`
 - 제출 / Submit: 수업 종료 시 커밋 → 커밋 URL을 LMS에 제출
+
+## 윤리 노트 / Ethics Note
+
+이번 주 윤리 노트는 **LMS 7주차 과제란에 개인으로 제출**합니다. (150~300자)
+저장소에 올리지 않습니다.
+
+*Submit this week's ethics note individually on the LMS (150–300 characters). Not in the repository.*
