@@ -54,4 +54,4 @@
 ---
 
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
-> `git add docs/week-09.md && git commit -m "docs: 9주차 활동지 작성"`
+> `git add docs/week-09.md && git commit -m "docs: 10주차 활동지 작성"`
