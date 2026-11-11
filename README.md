@@ -24,16 +24,16 @@
 | 1 | AI 시대의 소프트웨어 개발 패러다임 | [보기](weeks/week-01.md) | [week-01](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-01.md) | — |
 | 2 | 코딩 에이전트의 작동 원리와 Context Engineering | [보기](weeks/week-02.md) | [week-02](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-02.md) | ○ |
 | 3 | 도메인 문제 발굴 | [보기](weeks/week-03.md) | [week-03](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-03.md) | ○ |
-| 4 | 명세 주도 개발 Ⅰ — 요구 명세와 EARS | [보기](weeks/week-04.md) | [week-04](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-04.md) | ○ |
-| 5 | 명세 주도 개발 Ⅱ — 계획과 태스크 분해 | [보기](weeks/week-05.md) | [week-05](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-05.md) | ○ |
+| 4 |  요구 명세와 EARS | [보기](weeks/week-04.md) | [week-04](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-04.md) | ○ |
+| 5 |  계획과 태스크 분해 | [보기](weeks/week-05.md) | [week-05](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-05.md) | ○ |
 | 6 | Version Control과 에이전트 워크플로 | [보기](weeks/week-06.md) | [week-06](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-06.md) | ○ |
 | 7 | 아키텍처와 컨텍스트 설계 | [보기](weeks/week-07.md) | [week-07](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-07.md) | ○ |
 | 8 | 중간고사 | [보기](weeks/week-08.md) | — | — |
-| 9 | 구현 착수 — Agent Loop 돌리기 | [보기](weeks/week-09.md) | [week-09](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-09.md) | — |
-| 10 | 검증 Ⅰ — 실행 가능한 명세로서의 테스트 | [보기](weeks/week-10.md) | [week-10](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-10.md) | — |
-| 11 | 중간 데모와 리뷰 병목 | [보기](weeks/week-11.md) | [week-11](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-11.md) | — |
-| 12 | 검증 Ⅱ — AI 생성 코드의 보안과 품질 | [보기](weeks/week-12.md) | [week-12](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-12.md) | — |
-| 13 | 거버넌스와 재현성 | [보기](weeks/week-13.md) | [week-13](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-13.md) | — |
+| 9 | 구현 착수  | [보기](weeks/week-09.md) | [week-09](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-09.md) | — |
+| 10 | 구현 | [보기](weeks/week-10.md) | [week-10](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-10.md) | — |
+| 11 | 중간 데모 | [보기](weeks/week-11.md) | [week-11](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-11.md) | — |
+| 12 | 구현 보완 | [보기](weeks/week-12.md) | [week-12](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-12.md) | — |
+| 13 |  AI 생성 코드의 보안과 품질 및 최종 테스트| [보기](weeks/week-13.md) | [week-13](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-13.md) | — |
 | 14 |  기말 프로젝트 제출  | [보기](weeks/week-14.md) | [week-14](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-14.md) | — |
 | 15 | 기말 프로젝트 제출 | [보기](weeks/week-15.md) | [week-15](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-15.md) | — |
 
