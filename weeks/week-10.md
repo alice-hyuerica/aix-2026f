@@ -1,4 +1,4 @@
-# 9주차 활동지 / Week 9 Worksheet
+# 10주차 활동지 / Week 10 Worksheet
 
 **개발 착수 / Starting development**
 
@@ -21,10 +21,6 @@
 
 ## ② 개발 일정 / Development schedule
 
-5주차 **작업 순서**와 7주차 **이슈·마일스톤**을 바탕으로 이슈를 주차별로 배치합니다.
-*Place your issues week by week, based on the Week 5 work order and Week 7 issues and milestones.*
-
-- 11주차에 MVP가 동작해야 합니다. / Fill backwards from the deadlines.
 - 선행 이슈가 끝나기 전에 뒤 이슈를 넣지 않습니다. / Never schedule an issue before the ones it depends on.
 - 한 사람에게 몰리지 않았는지 확인합니다. / Check that no one is overloaded.
 
