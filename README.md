@@ -34,8 +34,8 @@
 | 11 | 중간 데모와 리뷰 병목 | [보기](weeks/week-11.md) | [week-11](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-11.md) | — |
 | 12 | 검증 Ⅱ — AI 생성 코드의 보안과 품질 | [보기](weeks/week-12.md) | [week-12](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-12.md) | — |
 | 13 | 거버넌스와 재현성 | [보기](weeks/week-13.md) | [week-13](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-13.md) | — |
-| 14 | 최종 데모데이 | [보기](weeks/week-14.md) | [week-14](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-14.md) | — |
-| 15 | 회고와 기말 프로젝트 제출 | [보기](weeks/week-15.md) | [week-15](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-15.md) | — |
+| 14 |  기말 프로젝트 제출  | [보기](weeks/week-14.md) | [week-14](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-14.md) | — |
+| 15 | 기말 프로젝트 제출 | [보기](weeks/week-15.md) | [week-15](https://github.com/alice-hyuerica/aix-team-template/blob/main/docs/week-15.md) | — |
 
 ## 평가 / Grading
 
