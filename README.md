@@ -9,10 +9,9 @@
 
 ## 시작하기 / Start here
 
-1. [한-영 용어집 / Glossary](glossary.md)
-2. [보조자료 — 영상·읽을거리 / Extra materials](resources.md)
-3. [주차별 안내 / Weekly guide](weeks/)
-4. 팀 저장소 만들기 → [aix-team-template](https://github.com/alice-hyuerica/aix-team-template) 에서 `Use this template`
+1. [보조자료 — 영상·읽을거리 / Extra materials](resources.md)
+2. [주차별 안내 / Weekly guide](weeks/)
+3. 팀 저장소 만들기 → [aix-team-template](https://github.com/alice-hyuerica/aix-team-template) 에서 `Use this template`
 
 > **활동지는 읽는 문서가 아니라 작성하는 문서입니다.** 아래 표의 링크는 원본이며,
 > 실제 작성은 여러분 팀 저장소의 `docs/` 폴더에서 합니다.
